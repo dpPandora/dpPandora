@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dpPandora
+- 👋 Howdy, I’m @dpPandora
 - 👀 I’m interested in programming and game development!
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on nothing at the moment but if its something cool im game!
