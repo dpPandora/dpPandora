@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing at the moment but if its something cool im game!
 - 📫 You can reach me at pandoraCode@pm.me
 
-lovelacedcode.com
+https://lovelacedcode.com
 
 <!---
 dpPandora/dpPandora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
